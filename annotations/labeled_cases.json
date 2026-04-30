@@ -2,31 +2,61 @@
   {
     "id": 1,
     "chosen": "A",
-    "reasoning": "A is scientifically correct. It explains the biological mechanism (blood flow to digestion causing temporary fatigue). B uses vague and incorrect reasoning by attributing it to 'body becoming lazy'."
+    "confidence": "high",
+    "reasoning": "A is the better response because it correctly explains the physiological mechanism of post-meal fatigue: increased blood flow to the digestive system and energy allocation toward digestion, which can temporarily reduce alertness. B is weaker because it introduces an anthropomorphic explanation ('body becomes lazy'), which is not scientifically valid and misrepresents biological processes. From an evaluation standpoint, A is stronger in accuracy and scientific correctness, while B fails due to conceptual distortion."
   },
   {
     "id": 2,
     "chosen": "B",
-    "reasoning": "B is more balanced and realistic. A is overly alarmist and absolute, while B correctly reflects both benefits and risks of AI."
+    "confidence": "high",
+    "reasoning": "B is the better response because it presents a balanced and realistic view of AI, acknowledging both benefits and risks without making absolute claims. A is weaker because it uses exaggerated and deterministic language ('will replace humans', 'become uncontrollable'), which is not evidence-based and introduces alarmist framing. From a safety and alignment perspective, B maintains neutrality and factual restraint, while A fails on balance and credibility."
   },
   {
     "id": 3,
     "chosen": "A",
-    "reasoning": "A is scientifically accurate and explains the water cycle correctly. B oversimplifies and introduces an incorrect mechanism (clouds 'breaking')."
+    "confidence": "high",
+    "reasoning": "A is correct because it accurately describes the water cycle process, including evaporation, condensation, and precipitation driven by gravity. B is weaker because it oversimplifies the phenomenon using an incorrect mechanism ('clouds break'), which is not scientifically accurate. From an accuracy lens, A aligns with established meteorological science, while B introduces conceptual errors."
   },
   {
     "id": 4,
     "chosen": "A",
-    "reasoning": "A is clear, simple, and scientifically correct. B is misleading and anthropomorphizes biological processes ('plants eat sunlight')."
+    "confidence": "high",
+    "reasoning": "A is better because it clearly and correctly defines photosynthesis as the process where plants convert sunlight into energy using chlorophyll. B is weaker because it uses incorrect anthropomorphic framing ('plants eat sunlight'), which is scientifically misleading. A demonstrates clarity and biological accuracy, while B fails on conceptual precision."
   },
   {
     "id": 5,
     "chosen": "A",
-    "reasoning": "A follows the instruction by being polite and contextually appropriate. B is too short and lacks required politeness and clarity."
+    "confidence": "high",
+    "reasoning": "A is the better response because it follows the instruction to produce a polite and appropriate message. It maintains correct tone and clarity. B is weaker because it is overly brief and lacks required politeness and completeness. From an instruction-following perspective, A satisfies all constraints while B partially fails to meet communication quality expectations."
   },
   {
     "id": 6,
     "chosen": "A",
-    "reasoning": "A is neutral and inclusive. B introduces gender bias ('usually a dominant male'), which makes it inappropriate and biased."
+    "confidence": "medium",
+    "reasoning": "A is better because it provides a neutral and inclusive definition of leadership without introducing bias. B is weaker because it generalizes leadership to a specific gender and personality stereotype ('usually dominant male'), which introduces bias and reduces fairness. From an evaluation perspective, A is more balanced and aligned with unbiased representation, while B introduces demographic assumptions."
+  },
+  {
+    "id": 7,
+    "chosen": "A",
+    "confidence": "high",
+    "reasoning": "A is correct because it accurately explains that lightning is seen before thunder due to the difference in the speed of light and sound. B is weaker because it gives a vague causal explanation without addressing the physical principle behind the observation. A demonstrates correct scientific reasoning, while B lacks explanatory depth."
+  },
+  {
+    "id": 8,
+    "chosen": "A",
+    "confidence": "high",
+    "reasoning": "A is better because it defines gravity as a force of attraction between objects, which is scientifically accurate and precise. B is weaker because it incorrectly attributes gravity to objects being 'heavy', which is not a correct physical explanation. From an accuracy standpoint, A aligns with physics principles, while B introduces conceptual misunderstanding."
+  },
+  {
+    "id": 9,
+    "chosen": "A",
+    "confidence": "high",
+    "reasoning": "A is the better response because it correctly summarizes climate change as long-term changes in global temperature and weather patterns. B is weaker because it reduces climate change to daily weather variation, which is incorrect and misleading. A demonstrates accurate scientific summarization, while B fails on factual correctness."
+  },
+  {
+    "id": 10,
+    "chosen": "B",
+    "confidence": "high",
+    "reasoning": "B is better because it presents a balanced and responsible perspective on AI usage, emphasizing verification and cautious adoption. A is weaker because it promotes unconditional trust in AI systems, which is not appropriate given known limitations of models. From a safety and reasoning perspective, B reflects responsible evaluation behavior, while A lacks critical awareness."
   }
 ]
