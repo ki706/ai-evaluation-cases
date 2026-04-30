@@ -1,7 +1,7 @@
 let cases = [];
 let index = 0;
 
-fetch("../data/cases.json")
+fetch("./data/cases.json")
   .then(res => res.json())
   .then(data => {
     cases = data;
