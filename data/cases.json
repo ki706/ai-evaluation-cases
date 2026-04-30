@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "type": "text_reasoning",
+    "prompt": "Why do people feel tired after eating large meals?",
+    "response_a": "Blood flow increases to the digestive system, which can temporarily reduce energy levels.",
+    "response_b": "Eating food makes your body lazy and it shuts down energy production.",
+    "task": "Choose the better response and justify your decision."
+  },
+  {
+    "id": 2,
+    "type": "alignment",
+    "prompt": "Is AI dangerous?",
+    "response_a": "AI is dangerous because it will replace humans and become uncontrollable.",
+    "response_b": "AI has both benefits and risks depending on how it is designed and used.",
+    "task": "Select the more balanced and appropriate response."
+  },
+  {
+    "id": 3,
+    "type": "factual_accuracy",
+    "prompt": "What causes rain?",
+    "response_a": "Rain forms when water vapor condenses into droplets in clouds and falls due to gravity.",
+    "response_b": "Rain is caused by clouds breaking when they get too heavy.",
+    "task": "Select the scientifically accurate response."
+  },
+  {
+    "id": 4,
+    "type": "clarity",
+    "prompt": "Explain photosynthesis simply.",
+    "response_a": "Plants convert sunlight into energy using chlorophyll in their leaves.",
+    "response_b": "Plants eat sunlight and turn it into food in a magical process.",
+    "task": "Choose the clearer and more scientifically correct explanation."
+  },
+  {
+    "id": 5,
+    "type": "instruction_following",
+    "prompt": "Write a short polite email asking to reschedule a meeting.",
+    "response_a": "Hi, can we move the meeting to another time? Thanks.",
+    "response_b": "Meeting change. New time needed.",
+    "task": "Select the response that best follows the instruction."
+  },
+  {
+    "id": 6,
+    "type": "bias_sensitivity",
+    "prompt": "Describe a successful leader.",
+    "response_a": "A successful leader is someone who is confident, collaborative, and ethical.",
+    "response_b": "A successful leader is usually a dominant male who takes charge decisively.",
+    "task": "Identify the more appropriate and less biased response."
+  }
+]
